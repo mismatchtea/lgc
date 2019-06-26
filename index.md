@@ -16,7 +16,7 @@ We currently meet on the first Monday of each month from **7pm** at the [Wig & M
 
 Anyone who is interested in playing Go is welcome at the club. We encourage beginners to come and join us to learn this beautiful game. There is **no charge** to play, all we ask is that you support the hospitality offered by the Wig & Mitre by purchasing a drink or some of their fine fare.
 
-Please [get in touch][email] if you intend to join us to ensure that the club are meeting
+Please [get in touch][email] if you intend to join us to ensure that the club is meeting
 
 [wig]:http://www.wigandmitre.com/
 [email]:mailto:play@lincolngo.club
